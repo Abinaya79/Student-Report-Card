@@ -28,4 +28,5 @@ It uses a **menu-driven approach** to handle different classes and streams such 
 
 
 ## Output
+<img width="755" height="427" alt="Image" src="https://github.com/user-attachments/assets/ace9265b-3af8-44ff-9433-a5684f15eb02" />
 
